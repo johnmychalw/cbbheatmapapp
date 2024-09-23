@@ -5,3 +5,4 @@ pandas==2.2.3
 seaborn==0.13.2
 streamlit==1.30.0
 scikit-learn==1.0.2
+setuptools==67.7.2
