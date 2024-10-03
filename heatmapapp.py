@@ -14,7 +14,7 @@ from datetime import datetime
 
 # Load the saved models
 xba_model = joblib.load('xbamodel.pkl')
-knn_model = joblib.load('knn_model.pkl')  # xSLG model
+knn_model = joblib.load('xSLG.pkl')  # xSLG model
 
 # Streamlit App
 st.title("HeatMaps Dashboard")
