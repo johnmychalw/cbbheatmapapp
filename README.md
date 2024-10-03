@@ -28,5 +28,3 @@ xSLG Model (knn_model): Predicts expected slugging percentage based on exit velo
 
 **Website:**
 https://cbbheatmapapp.streamlit.app/ 
-
-This app currently has a password, feel free to reach out to me at johnmychalwarren@outlook.com to request it.
